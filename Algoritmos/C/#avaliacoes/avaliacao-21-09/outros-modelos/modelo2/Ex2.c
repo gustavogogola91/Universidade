@@ -1,0 +1,1 @@
+// Exercicio feito anteriormente em "../modelo1/Ex2.c"
